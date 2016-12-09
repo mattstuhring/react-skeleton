@@ -1,1 +1,0 @@
-console.error("Error: Cannot find module '/Users/MattBookAir/Projects/udemy/react/react-skeleton/src/main.jsx' from '/Users/MattBookAir/Projects/udemy/react/react-skeleton'");
